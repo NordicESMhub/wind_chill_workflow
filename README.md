@@ -1,7 +1,7 @@
 # Windchill_workflow
 Compute wind chill from weather forecasts surface temperature and wind speed.
 
-We will be using the [Canada's Wind chill Index](https://www.canada.ca/en/environment-climate-change/services/weather-health/wind-chill-cold-weather/wind-chill-index.html). As mentioned on their website, ot reflects the needs of Canadians so we can probably consider it accurate for the Nordic countries too.
+We will be using the [Canada's Wind chill Index](https://www.canada.ca/en/environment-climate-change/services/weather-health/wind-chill-cold-weather/wind-chill-index.html). As mentioned on their website, it reflects the needs of Canadians so we can probably consider it accurate for the Nordic countries too.
 
 The CWI (Canada's Wind chill Index) is given in degrees Celcius and is equivalent to the temperature with no wind. It represents the degree of "chill" that your skin senses. For example, if the wind chill is -20 while the outside temperature is only -10ºC, it means that your face will feel as cold as if it was a calm day (no wind) with a temperature of -20ºC.
 
