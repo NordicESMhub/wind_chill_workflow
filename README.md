@@ -1,4 +1,5 @@
-# Windchill_workflow
+# Windchill workflow with Galaxy
+
 Compute wind chill from weather forecasts surface temperature and wind speed.
 
 We will be using the [Canada's Wind chill Index](https://www.canada.ca/en/environment-climate-change/services/weather-health/wind-chill-cold-weather/wind-chill-index.html). As mentioned on their website, it reflects the needs of Canadians so we can probably consider it accurate for the Nordic countries too.
